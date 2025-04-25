@@ -1,2 +1,2 @@
-# MAPLab
-My code for MAP lab + my senior thesis 
+# Cue Competition Modeling: Overshadowing Effects via Machine Learning
+This repository presents a machine learning framework to model cue competition in associative learning, focusing on the overshadowing effect as influenced by temporal and spatial contiguities. Using behavioral data from Herrera et al. (2022), this project develops classifiers to predict whether overshadowing or facilitation occurs under different experimental conditions.
